@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1095268360046",
+    "firebase_url": "https://player-inventory-default-rtdb.firebaseio.com",
+    "project_id": "player-inventory",
+    "storage_bucket": "player-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095268360046:android:4a87fd1284525c581fab7f",
+        "android_client_info": {
+          "package_name": "com.ray.playerinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63XfkyYfvCg9YbwxPoA71J65HWWQaIfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
