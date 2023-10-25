@@ -1,0 +1,5 @@
+# Exclude Unity Library folder
+Library/
+
+# Exclude Firebase folder
+Assets/Firebase/
